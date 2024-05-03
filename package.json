@@ -17,7 +17,7 @@
     "aws-sdk": "^2.1066.0",
     "dotenv": "^14.3.2",
     "express": "^4.17.2",
-    "graphql": "^16.5.0",
+    "graphql": "^16.8.1",
     "module-alias": "^2.2.2",
     "uuid": "^8.3.2"
   },
